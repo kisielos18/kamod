@@ -1,14 +1,6 @@
-/*
- * debug.h
- *
- *  Created on: Oct 23, 2011
- *      Author: ja
- */
-
-#include "stm32f4xx_usart.h"
-
 #ifndef DEBUG_H_
 #define DEBUG_H_
+#include "stm32f4xx_usart.h"
 
 #define USARTn                          USART2
 /* Size of Transmission buffer */
